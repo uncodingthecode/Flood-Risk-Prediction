@@ -1,0 +1,5 @@
+1.Flood.csv (https://www.kaggle.com/datasets/naiyakhalid/flood-prediction-dataset/data)
+2.Humans Live Lost(https://www.data.gov.in/dataset-group-name/Damage%20due%20to%20floods)
+3.District wise rainfall normal(https://www.kaggle.com/datasets/rajanand/rainfall-in-india)
+4.Sub_Division_IMD_2017(https://www.data.gov.in/catalog/rainfall-india)
+5.rainfall_area-wt_sd_1901-2015(https://www.data.gov.in/catalog/rainfall-india)
